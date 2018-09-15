@@ -1,6 +1,5 @@
-### 熟练掌握java反射机制:
-    
-   
+### 内作业
+   	 熟练掌握java反射机制:
 		一: Class 类对象 方法的获取
 			1: getClass()
 			2: 运用.Class 语法
@@ -14,20 +13,20 @@
 
 
 
-内作业
+### 内作业
 	开发环境: xampp + myeclipse + IDEA
 	ch3 全部干掉
 	ch8 环境搭建
 
 
 
-内作业
+### 内作业
 	composer
 
 
 
 
-SpringMVC——Tomcat
+### SpringMVC——Tomcat
 
 	Tomcat固定的目录结构：
 		/work
